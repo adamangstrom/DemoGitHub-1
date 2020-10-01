@@ -21,7 +21,7 @@ namespace DemoGitHub
         {
             int i = 10;
 
-            i = 12;
+            i = 120;
 
         }
     }
